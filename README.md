@@ -4,3 +4,4 @@
 
 - 물 한 잔: https://pisodev77.github.io/app-pages/mul-hanjan/privacy/
 - 물 한 잔 웹 체험판: https://pisodev77.github.io/app-pages/mul-hanjan/demo/ (만들기: 물 한 잔 저장소 `scripts/export-demo.sh`)
+- 물 한 잔 안내 글(검색용): https://pisodev77.github.io/app-pages/mul-hanjan/guide/ (2026-11-18, 글 3개)

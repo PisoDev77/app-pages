@@ -10,3 +10,19 @@ p,li{color:var(--text)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px}
 a{color:var(--accent)}
 ul{padding-left:1.2em}
+/* guide articles */
+.crumb{font-size:.9rem;color:var(--sub);margin:0 0 12px}
+.crumb a{color:var(--sub)}
+table{width:100%;border-collapse:collapse;margin:8px 0 4px;font-variant-numeric:tabular-nums}
+th,td{border-bottom:1px solid var(--line);padding:8px 6px;text-align:left}
+th{color:var(--sub);font-weight:600;font-size:.92rem}
+figure{margin:20px 0;text-align:center}
+figure img{width:100%;max-width:300px;height:auto;border-radius:14px;border:1px solid var(--line)}
+figcaption{color:var(--sub);font-size:.88rem;margin-top:6px}
+.cta{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0 4px}
+.btn{display:inline-block;padding:11px 18px;border-radius:12px;text-decoration:none;font-weight:600;border:1px solid var(--accent)}
+.btn.main{background:var(--accent);color:#fff}
+.btn.ghost{color:var(--accent)}
+@media (prefers-color-scheme:dark){.btn.main{color:#0f1a26}}
+.more{margin-top:28px}
+.note{color:var(--sub);font-size:.88rem}
